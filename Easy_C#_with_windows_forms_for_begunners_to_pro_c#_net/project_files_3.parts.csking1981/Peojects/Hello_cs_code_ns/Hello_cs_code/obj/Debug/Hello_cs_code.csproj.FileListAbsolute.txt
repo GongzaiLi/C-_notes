@@ -1,0 +1,9 @@
+C:\Users\Rec User\source\repos\Hello_cs_code_ns\Hello_cs_code\bin\Debug\Hello_cs_code.exe
+C:\Users\Rec User\source\repos\Hello_cs_code_ns\Hello_cs_code\bin\Debug\Hello_cs_code.pdb
+C:\Users\Rec User\source\repos\Hello_cs_code_ns\Hello_cs_code\obj\Debug\Hello_cs_code.Form1.resources
+C:\Users\Rec User\source\repos\Hello_cs_code_ns\Hello_cs_code\obj\Debug\Hello_cs_code.Properties.Resources.resources
+C:\Users\Rec User\source\repos\Hello_cs_code_ns\Hello_cs_code\obj\Debug\Hello_cs_code.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\Hello_cs_code_ns\Hello_cs_code\obj\Debug\Hello_cs_code.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\Hello_cs_code_ns\Hello_cs_code\obj\Debug\Hello_cs_code.exe
+C:\Users\Rec User\source\repos\Hello_cs_code_ns\Hello_cs_code\obj\Debug\Hello_cs_code.pdb
+C:\Users\Rec User\source\repos\Hello_cs_code_ns\Hello_cs_code\obj\Debug\Hello_cs_code.csprojAssemblyReference.cache

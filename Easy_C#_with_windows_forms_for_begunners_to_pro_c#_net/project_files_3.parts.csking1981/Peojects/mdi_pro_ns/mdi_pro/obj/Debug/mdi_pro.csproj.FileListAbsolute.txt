@@ -1,0 +1,11 @@
+C:\Users\Rec User\source\repos\mdi_pro_ns\mdi_pro\bin\Debug\mdi_pro.exe
+C:\Users\Rec User\source\repos\mdi_pro_ns\mdi_pro\bin\Debug\mdi_pro.pdb
+C:\Users\Rec User\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.Backup.resources
+C:\Users\Rec User\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.Form1.resources
+C:\Users\Rec User\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.Properties.Resources.resources
+C:\Users\Rec User\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.settings.resources
+C:\Users\Rec User\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.exe
+C:\Users\Rec User\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.pdb
+C:\Users\Rec User\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.my_forms.test_form.resources

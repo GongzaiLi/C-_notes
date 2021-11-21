@@ -1,0 +1,10 @@
+C:\Users\Rec User\source\repos\methods_intro_ns\methods_intro\bin\Debug\methods_intro.exe
+C:\Users\Rec User\source\repos\methods_intro_ns\methods_intro\bin\Debug\methods_intro.pdb
+C:\Users\Rec User\source\repos\methods_intro_ns\methods_intro\obj\Debug\methods_intro.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\methods_intro_ns\methods_intro\obj\Debug\methods_intro.Form1.resources
+C:\Users\Rec User\source\repos\methods_intro_ns\methods_intro\obj\Debug\methods_intro.Properties.Resources.resources
+C:\Users\Rec User\source\repos\methods_intro_ns\methods_intro\obj\Debug\methods_intro.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\methods_intro_ns\methods_intro\obj\Debug\methods_intro.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\methods_intro_ns\methods_intro\obj\Debug\methods_intro.exe
+C:\Users\Rec User\source\repos\methods_intro_ns\methods_intro\obj\Debug\methods_intro.pdb
+C:\Users\Rec User\source\repos\methods_intro_ns\methods_intro\obj\Debug\methods_intro.Form2.resources
